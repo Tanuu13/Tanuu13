@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **iamtanuyadav13@gmail.com**  
 
+- A frontend developer
 
 
 
